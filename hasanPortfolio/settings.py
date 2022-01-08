@@ -84,7 +84,7 @@ DATABASES = {
         'NAME': "iwdrnpal",
         'USER': "iwdrnpal",
         'PASSWORD': 'pkg-WbAuUr5ArS9K9INS1TG0TqWmo3IL',
-        'HOST': '	castor.db.elephantsql.com',
+        'HOST': 'castor.db.elephantsql.com',
         'PORT': 5432
     }
 }
