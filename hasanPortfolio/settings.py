@@ -81,9 +81,9 @@ WSGI_APPLICATION = 'hasanPortfolio.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': "iwdrnpal",
-        'USER': "iwdrnpal",
-        'PASSWORD': 'pkg-WbAuUr5ArS9K9INS1TG0TqWmo3IL',
+        'NAME': "bnhgtsvh",
+        'USER': "bnhgtsvh",
+        'PASSWORD': 'EStKjz0bHQAYd1ibGby15POwR-CvlcW9',
         'HOST': 'castor.db.elephantsql.com',
         'PORT': 5432
     }
